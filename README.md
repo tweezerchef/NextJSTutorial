@@ -1,0 +1,2 @@
+# NextJSTutorial
+Just learning Next
